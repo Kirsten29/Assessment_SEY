@@ -1,2 +1,2 @@
 # Assessment_SEY
-Files used  for my assessement @SEY
+Files used  for my assessment @SEY
